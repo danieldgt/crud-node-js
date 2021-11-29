@@ -6,9 +6,9 @@ function hello(argument) {
 }
 
 hello();
+
 const server = express();
 server.listen(3000);
-
 server.get('/teste', () => {
 	console.log('teste');
 });
