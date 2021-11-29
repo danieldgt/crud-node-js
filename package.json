@@ -1,9 +1,12 @@
 {
   "name": "crud-node-js",
   "version": "1.0.0",
-  "description": "Crud de NodeJs",
+  "description": "Crud de NodeJS",
   "main": "index.js",
   "repository": "https://github.com/danieldgt/crud-node-js.git",
   "author": "Daniel Alencar Barros Tavares",
-  "license": "Apache License"
+  "license": "Apache License",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
