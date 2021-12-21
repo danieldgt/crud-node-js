@@ -7,9 +7,11 @@
   "author": "Daniel Alencar Barros Tavares",
   "license": "Apache License",
   "scripts": {
-    "dev": "nodemon index.js //Serve para fazer um hotdeploy da aplicação ao salvar algum arquivo. executar como: yarn dev" 
+    "dev": "nodemon app.js "
   },
   "dependencies": {
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
