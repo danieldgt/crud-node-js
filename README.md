@@ -14,5 +14,12 @@ curl -X POST "http://localhost:3001/hello"
 install postgres on linux
 https://phoenixnap.com/kb/how-to-install-postgresql-on-ubuntu
 
+Acessar banco de dados
+ sudo su - postgres
+ psql
+ 
+Criar banco de dados
+$ CREATE DATABASE testedb;
+$ \c testedb;
 
 
