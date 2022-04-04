@@ -23,3 +23,9 @@ $ CREATE DATABASE testedb;
 $ \c testedb;
 
 
+
+OBS: 
+
+caso ocorra erro em -- Erro “não foi possível obter trava /var/lib/dpkg/lock-frontend” --
+http://www.bosontreinamentos.com.br/linux/erro-nao-foi-possivel-obter-trava-var-lib-dpkg-lock-frontend/
+
