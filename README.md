@@ -29,3 +29,5 @@ OBS:
 caso ocorra erro em -- Erro “não foi possível obter trava /var/lib/dpkg/lock-frontend” --
 http://www.bosontreinamentos.com.br/linux/erro-nao-foi-possivel-obter-trava-var-lib-dpkg-lock-frontend/
 
+Caso ocorra erro em -- Not able to run nodemon (SyntaxError: Unexpected token) on ubuntu
+https://stackoverflow.com/questions/70750949/not-able-to-run-nodemon-syntaxerror-unexpected-token-on-ubuntu
