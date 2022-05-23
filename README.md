@@ -38,3 +38,7 @@ https://stackoverflow.com/questions/70750949/not-able-to-run-nodemon-syntaxerror
 
 ORM:
 https://www.npmjs.com/package/sequelize
+
+$ npm i sequelize # This will install v6
+
+$ npm install --save pg pg-hstore #instalar driver
