@@ -1,10 +1,13 @@
 # crud-node-js
 Backend em Node
 
-instalar
-sudo apt install nodejs
-sudo apt install npm
-npm install nodemon
+instalar:
+
+- sudo apt install nodejs
+
+- sudo apt install npm
+
+- npm install nodemon
 
 to start  project do:
 $ nodemon index.js
@@ -31,3 +34,7 @@ http://www.bosontreinamentos.com.br/linux/erro-nao-foi-possivel-obter-trava-var-
 
 Caso ocorra erro em -- Not able to run nodemon (SyntaxError: Unexpected token) on ubuntu
 https://stackoverflow.com/questions/70750949/not-able-to-run-nodemon-syntaxerror-unexpected-token-on-ubuntu
+
+
+ORM:
+https://www.npmjs.com/package/sequelize
